@@ -1,3 +1,5 @@
+#python version 3.9 is suited 
+
 import ipaddress
 import sys
 import whois
