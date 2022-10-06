@@ -1,6 +1,6 @@
 
 
     This is a simple information gatherer script
-    It gets the info of whois,geolocation,shodan and dns <br />
-    usage: <br />
+    It gets the info of whois,geolocation,shodan and dns 
+    usage: 
     python3 info_gatherer.py -d DOMAIN [-s IP -a SHODAN API][-o file]
