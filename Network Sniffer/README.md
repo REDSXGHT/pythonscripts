@@ -1,4 +1,5 @@
-    A Python based Network Sniffer Tool using Scapy 
+A Python based Network Sniffer Tool using Scapy 
+Usage 
 
-    Usage - sudo python3 Sniff33r.py [-d/-s/-p] PORT | tee OUTPUT.TXT
-            #sudo python3 Sniff33r.py -p 80 | tee log.txt
+           sudo python3 Sniff33r.py [-d/-s/-p] PORT | tee OUTPUT.TXT
+           sudo python3 Sniff33r.py -p 80 | tee log.txt
