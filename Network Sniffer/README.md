@@ -1,4 +1,4 @@
-A Python based Network Sniffer Tool using Scapy 
+A Python based Network Sniffer Tool using Scapy <br>
 Syntax: 
 
            sudo python3 Sniff33r.py [-d/-s/-p] PORT | tee OUTPUT.TXT
