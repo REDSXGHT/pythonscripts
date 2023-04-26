@@ -19,3 +19,5 @@ Usage:
 **After logging to the website using the credentials given we see some useful information with redtext in the output of script**
 ![alt test](https://github.com/REDSXGHT/pythonscripts/blob/main/Pictures/sniffer4.png)
 ![alt test](https://github.com/REDSXGHT/pythonscripts/blob/main/Pictures/sniffer5.png)
+
+![Full Output](https://github.com/REDSXGHT/pythonscripts/blob/main/Network%20Sniffer/snifferout.txt)
