@@ -1,0 +1,292 @@
+   / ____/____   (_)/ __// __/|__  /|__  / _____
+  /___ \ / __ \ / // /_ / /_   /_ <  /_ < / ___/
+ ____/ // / / // // __// __/ ___/ /___/ // /    
+/_____//_/ /_//_//_/  /_/   /____//____//_/    
+                                                                                                                                                                            
+                 https://github.com/REDSXGHT                                                                                                                                
+                                                                                                                                                                            
+                                                                                                                                                                            
+[+]192.168.80.128 is using port 55562 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55518 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55562
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55518
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55562
+[+]192.168.80.128 is using port 55562 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55518
+[+]192.168.80.128 is using port 55518 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55510 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55526 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55538 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55548 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55506 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55504 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55510 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55510
+[+]192.168.80.128 is using port 55526 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55526
+[+]192.168.80.128 is using port 55538 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55538
+[+]192.168.80.128 is using port 55506 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55548 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55506
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55548
+[+]192.168.80.128 is using port 55504 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55504
+[+]192.168.80.128 is using port 55506 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is making a HTTP Request to url :testphp.vulnweb.com/login.php with method : GET
+[+]HTTP DATA:
+###[ HTTP Request ]### 
+  Method    = 'GET'
+  Path      = '/login.php'
+  Http_Version= 'HTTP/1.1'
+  A_IM      = None
+  Accept    = 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+  Accept_Charset= None
+  Accept_Datetime= None
+  Accept_Encoding= 'gzip, deflate'
+  Accept_Language= 'en-US,en;q=0.5'
+  Access_Control_Request_Headers= None
+  Access_Control_Request_Method= None
+  Authorization= None
+  Cache_Control= None
+  Connection= 'keep-alive'
+  Content_Length= None
+  Content_MD5= None
+  Content_Type= None
+  Cookie    = None
+  DNT       = None
+  Date      = None
+  Expect    = None
+  Forwarded = None
+  From      = None
+  Front_End_Https= None
+  HTTP2_Settings= None
+  Host      = 'testphp.vulnweb.com'
+  If_Match  = None
+  If_Modified_Since= None
+  If_None_Match= None
+  If_Range  = None
+  If_Unmodified_Since= None
+  Keep_Alive= None
+  Max_Forwards= None
+  Origin    = None
+  Permanent = None
+  Pragma    = None
+  Proxy_Authorization= None
+  Proxy_Connection= None
+  Range     = None
+  Referer   = 'http://testphp.vulnweb.com/'
+  Save_Data = None
+  TE        = None
+  Upgrade   = None
+  Upgrade_Insecure_Requests= '1'
+  User_Agent= 'Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0'
+  Via       = None
+  Warning   = None
+  X_ATT_DeviceId= None
+  X_Correlation_ID= None
+  X_Csrf_Token= None
+  X_Forwarded_For= None
+  X_Forwarded_Host= None
+  X_Forwarded_Proto= None
+  X_Http_Method_Override= None
+  X_Request_ID= None
+  X_Requested_With= None
+  X_UIDH    = None
+  X_Wap_Profile= None
+  Unknown_Headers= None
+
+None
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55506
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55506
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55506
+[+]192.168.80.128 is using port 55506 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55506 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 54078 to connect to 18.155.112.59 at port 80
+[+]18.155.112.59 is using port 80 to connect to 192.168.80.128 at port 54078
+[+]192.168.80.128 is using port 54078 to connect to 18.155.112.59 at port 80
+[+]192.168.80.128 is using port 54078 to connect to 18.155.112.59 at port 80
+[+]192.168.80.128 is making a HTTP Request to url :ocsp.r2m01.amazontrust.com/ with method : POST
+[+]HTTP DATA:
+###[ HTTP Request ]### 
+  Method    = 'POST'
+  Path      = '/'
+  Http_Version= 'HTTP/1.1'
+  A_IM      = None
+  Accept    = '*/*'
+  Accept_Charset= None
+  Accept_Datetime= None
+  Accept_Encoding= 'gzip, deflate'
+  Accept_Language= 'en-US,en;q=0.5'
+  Access_Control_Request_Headers= None
+  Access_Control_Request_Method= None
+  Authorization= None
+  Cache_Control= 'no-cache'
+  Connection= 'keep-alive'
+  Content_Length= '83'
+  Content_MD5= None
+  Content_Type= 'application/ocsp-request'
+  Cookie    = None
+  DNT       = None
+  Date      = None
+  Expect    = None
+  Forwarded = None
+  From      = None
+  Front_End_Https= None
+  HTTP2_Settings= None
+  Host      = 'ocsp.r2m01.amazontrust.com'
+  If_Match  = None
+  If_Modified_Since= None
+  If_None_Match= None
+  If_Range  = None
+  If_Unmodified_Since= None
+  Keep_Alive= None
+  Max_Forwards= None
+  Origin    = None
+  Permanent = None
+  Pragma    = 'no-cache'
+  Proxy_Authorization= None
+  Proxy_Connection= None
+  Range     = None
+  Referer   = None
+  Save_Data = None
+  TE        = None
+  Upgrade   = None
+  Upgrade_Insecure_Requests= None
+  User_Agent= 'Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0'
+  Via       = None
+  Warning   = None
+  X_ATT_DeviceId= None
+  X_Correlation_ID= None
+  X_Csrf_Token= None
+  X_Forwarded_For= None
+  X_Forwarded_Host= None
+  X_Forwarded_Proto= None
+  X_Http_Method_Override= None
+  X_Request_ID= None
+  X_Requested_With= None
+  X_UIDH    = None
+  X_Wap_Profile= None
+  Unknown_Headers= None
+###[ Raw ]### 
+     load      = '0Q0O0M0K0I0\t\x06\x05+\x0e\x03\x02\x1a\x05\x00\x04\x14\\xa1uQ\x05\\x9d!\x10\\xd2\x01\\xb9\x08\x1bs3\\x8f\x1c<ǽ_\x04\x14\\x81\\xb8\x0ec\\x8a\\x89\x12\x18\\xe5\\xfa;;P\\x95\\x9f\\xe6\\xe5\\x90\x13\\x85\x02\x10\x03M\\xf1㮺\\xc7\\xf0l\\x91\\xce\x036\x1aH\\xa8'
+
+None
+[+]18.155.112.59 is using port 80 to connect to 192.168.80.128 at port 54078
+[+]18.155.112.59 is using port 80 to connect to 192.168.80.128 at port 54078
+[+]192.168.80.128 is using port 54078 to connect to 18.155.112.59 at port 80
+[+]192.168.80.128 is using port 55510 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55510
+[+]192.168.80.128 is using port 55526 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55526
+[+]192.168.80.128 is using port 55548 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55538 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55548
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55538
+[+]192.168.80.128 is using port 55504 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55504
+[+]192.168.80.128 is using port 55506 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is making a HTTP Request to url :testphp.vulnweb.com/userinfo.php with method : POST
+[+]HTTP DATA:
+###[ HTTP Request ]### 
+  Method    = 'POST'
+  Path      = '/userinfo.php'
+  Http_Version= 'HTTP/1.1'
+  A_IM      = None
+  Accept    = 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8'
+  Accept_Charset= None
+  Accept_Datetime= None
+  Accept_Encoding= 'gzip, deflate'
+  Accept_Language= 'en-US,en;q=0.5'
+  Access_Control_Request_Headers= None
+  Access_Control_Request_Method= None
+  Authorization= None
+  Cache_Control= None
+  Connection= 'keep-alive'
+  Content_Length= '20'
+  Content_MD5= None
+  Content_Type= 'application/x-www-form-urlencoded'
+  Cookie    = None
+  DNT       = None
+  Date      = None
+  Expect    = None
+  Forwarded = None
+  From      = None
+  Front_End_Https= None
+  HTTP2_Settings= None
+  Host      = 'testphp.vulnweb.com'
+  If_Match  = None
+  If_Modified_Since= None
+  If_None_Match= None
+  If_Range  = None
+  If_Unmodified_Since= None
+  Keep_Alive= None
+  Max_Forwards= None
+  Origin    = 'http://testphp.vulnweb.com'
+  Permanent = None
+  Pragma    = None
+  Proxy_Authorization= None
+  Proxy_Connection= None
+  Range     = None
+  Referer   = 'http://testphp.vulnweb.com/login.php'
+  Save_Data = None
+  TE        = None
+  Upgrade   = None
+  Upgrade_Insecure_Requests= '1'
+  User_Agent= 'Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0'
+  Via       = None
+  Warning   = None
+  X_ATT_DeviceId= None
+  X_Correlation_ID= None
+  X_Csrf_Token= None
+  X_Forwarded_For= None
+  X_Forwarded_Host= None
+  X_Forwarded_Proto= None
+  X_Http_Method_Override= None
+  X_Request_ID= None
+  X_Requested_With= None
+  X_UIDH    = None
+  X_Wap_Profile= None
+  Unknown_Headers= None
+###[ Raw ]### 
+     load      = 'uname=test&pass=test'
+
+None
+[+]Useful info : uname=test&pass=test
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55506
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55506
+[+]192.168.80.128 is using port 55506 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55506
+[+]192.168.80.128 is using port 55506 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 54078 to connect to 18.155.112.59 at port 80
+[+]192.168.80.128 is using port 54078 to connect to 18.155.112.59 at port 80
+[+]18.155.112.59 is using port 80 to connect to 192.168.80.128 at port 54078
+[+]192.168.80.128 is using port 55510 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55510
+[+]192.168.80.128 is using port 55526 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55526
+[+]192.168.80.128 is using port 55548 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55538 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55548
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55538
+[+]192.168.80.128 is using port 55504 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55504
+[+]192.168.80.128 is using port 55506 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55506 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55506
+[+]192.168.80.128 is using port 54078 to connect to 18.155.112.59 at port 80
+[+]18.155.112.59 is using port 80 to connect to 192.168.80.128 at port 54078
+[+]192.168.80.128 is using port 55510 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55510
+[+]192.168.80.128 is using port 55526 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55526
+[+]192.168.80.128 is using port 55548 to connect to 44.228.249.3 at port 80
+[+]192.168.80.128 is using port 55538 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55548
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55538
+[+]192.168.80.128 is using port 55504 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55504
+[+]192.168.80.128 is using port 55506 to connect to 44.228.249.3 at port 80
+[+]44.228.249.3 is using port 80 to connect to 192.168.80.128 at port 55506
+[+]192.168.80.128 is using port 54078 to connect to 18.155.112.59 at port 80
+[+]18.155.112.59 is using port 80 to connect to 192.168.80.128 at port 54078
