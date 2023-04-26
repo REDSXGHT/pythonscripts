@@ -13,10 +13,12 @@ Usage:
 ![alt test](https://github.com/REDSXGHT/pythonscripts/blob/main/Pictures/sniffer3.png)
 
 **Using testphp.vulnweb.com as the Target for testing the script**
+________
 
 ![alt test](https://github.com/REDSXGHT/pythonscripts/blob/main/Pictures/sniffer1.png)
 
 **After logging to the website using the credentials given we see some useful information with redtext in the output of script**
+______________
 
 ![alt test](https://github.com/REDSXGHT/pythonscripts/blob/main/Pictures/sniffer4.png)
 ![alt test](https://github.com/REDSXGHT/pythonscripts/blob/main/Pictures/sniffer5.png)
